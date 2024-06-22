@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Enhancing my JavaScript and PHP.**
-
-- 💬 Ask me about **Android**
+- 🌱 I’m currently learning **Enhancing my JavaScript and PHP. Learners set and strive toward goals based on self-awareness of strengths, interests, talents, and opportunities for growth.**
 
 - 📫 How to reach me **Sheikhalvira36@gmail.com**
 
